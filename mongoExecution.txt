@@ -1,0 +1,10 @@
+C:\Program Files\MongoDB\Server\4.0\bin>mongo
+
+C:\Program Files\MongoDB\Server\4.0\bin>mongod --dbpath D:\mongoDbData\data
+
+
+
+
+/*"styles": [
+  "src/styles.css"
+],*/
